@@ -1,0 +1,4 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "gitIgnoredAuthors": ["99875673+RahulGautamSingh-testing@users.noreply.github.com"]
+}
